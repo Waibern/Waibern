@@ -7,18 +7,13 @@
 </p>
 
 <h1>waibern</h1>
-<p><b>Freelance developer or consultant</b></p>
+<p><b>Software Student</b></p>
 
 </div>
 
-## The idea behind the work
-
-> Building useful things and learning in public.
+> Building useful things using AI and learning in public.
 
 - 👥 **2** followers · **1** following
-
-*Small, useful work over vague claims.*
-
 ## Case studies
 
 <table>
@@ -32,7 +27,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## Make something memorable
+## Make something cool
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=waibern&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218360757%3Fu%3Dc100ea16349d1ac899508b371e2676fdc66b0cb3%26v%3D4" alt="waibern social visual" />
