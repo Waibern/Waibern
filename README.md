@@ -39,5 +39,3 @@
 </p>
 
 <a href="https://github.com/waibern">GitHub</a>
-
-<p align="center"><sub>waibern · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
